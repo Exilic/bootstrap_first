@@ -1,0 +1,8 @@
+.window-600 {
+  height: 300px;
+}
+
+#mainContentWindow {
+  height: 740px;
+  overflow-y: scroll;
+}
